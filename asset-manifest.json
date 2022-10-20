@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/people-trajectory/static/css/main.233b3b67.css",
+    "main.js": "/people-trajectory/static/js/main.4c436152.js",
+    "static/js/787.14086d5d.chunk.js": "/people-trajectory/static/js/787.14086d5d.chunk.js",
+    "index.html": "/people-trajectory/index.html",
+    "main.233b3b67.css.map": "/people-trajectory/static/css/main.233b3b67.css.map",
+    "main.4c436152.js.map": "/people-trajectory/static/js/main.4c436152.js.map",
+    "787.14086d5d.chunk.js.map": "/people-trajectory/static/js/787.14086d5d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.233b3b67.css",
+    "static/js/main.4c436152.js"
+  ]
+}

@@ -1,0 +1,1 @@
+export const STOP_DISTANCE_THRESHOLD = 0;
